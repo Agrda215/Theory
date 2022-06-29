@@ -17,4 +17,6 @@ var init = () => {
     currency2 = theory.createCurrency();
 }
 
+var getTau = () => currency.value;
+
 init();
