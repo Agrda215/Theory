@@ -6,7 +6,7 @@ import { Utils } from "../api/Utils";
 
 var id = "custom";
 var name = "Tratrin Theory";
-var description = "An implementation of... what? everything you buy will only works while offline";
+var description = "owowowowowowo";
 var authors = "Agrda215";
 var version = 1;
 
