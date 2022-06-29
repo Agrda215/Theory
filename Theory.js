@@ -7,7 +7,7 @@ import { Utils } from "../api/Utils";
 var id = "theory";
 var name = "My Theory";
 var description = "116616661";
-var authors = "Sky == liver";
+var authors = "Agrda251";
 var version = 1;
 
 var currency;
